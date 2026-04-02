@@ -1,0 +1,5 @@
+{
+  "name": "FootyAnalyzer AI",
+  "description": "Advanced football match analyzer using AI to predict Over 1.5, HT, BTTS, and Match Results with probabilities.",
+  "requestFramePermissions": []
+}
